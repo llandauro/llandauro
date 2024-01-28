@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research projects related to my passions and/or a summer internship for 2024
 - 📫 How to reach me: www.linkedin.com/in/lara-landauro
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I won the judge's favourite award at a local writing competition with a zombie short story when I was 12
+- ⚡ Fun fact: I won the judge's favourite choice award at my town's writing competition with a zombie short story 🧟 at age 12 
 
 <!---
 llandauro/llandauro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
