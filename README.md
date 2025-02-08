@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llandauro
 - 👀 I’m interested in AI, robotics and preserving the marine environment
 - 🌱 I’m currently learning computer science at McGill University
-- 💞️ I’m looking to collaborate on research projects related to my passions and/or a summer internship for 2025
+- 💞️ I’m looking to collaborate on research projects related to my passions
 - 📫 How to reach me: www.linkedin.com/in/lara-landauro
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I won the judge's favourite choice award at my town's writing competition with a zombie short story 🧟 at age 12 
